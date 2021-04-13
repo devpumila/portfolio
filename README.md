@@ -8,8 +8,7 @@
 좋은 개발자로 성장하기 위해 학습, 경험하고 있습니다.
 
 <hr/><br>
-### SKILLS
-<br>
+### SKILLS<br>
 
 + Back-end
   + Java, Spring, Kotlin
