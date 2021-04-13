@@ -32,10 +32,13 @@
 
 ###### 우주 슬라임 마켓 (21.01.11-21.02.15)<br>
 
-6인이서 진행한 프로젝트로 JAVA, Spring, Tomcat, Oracle DB를 활용하여 인터넷 쇼핑몰 제작에서 DB 설계 및 처리, 각 페이지 연결 및 채팅기능 담당<br><br>
+6인이서 진행한 프로젝트로 JAVA, Spring, Tomcat, Oracle DB를 활용하여 인터넷 쇼핑몰 제작에서 DB 설계 및 처리, 각 페이지 연결 및 채팅기능 담당<br>
+Links : [Link]<https://github.com/devpumila/uzuslime><br>
 ###### PC방 관리 프로그램 (20.11.09-20.11.13)<br>
 
 3인으로 진행한 프로젝트로 JAVA, Oracle DB 를 이용한 PC방 관리 프로그램 구현에서 구현된 UI에 기능 추가 및 DB 데이터 처리
+
+Links : [Link]<https://github.com/devpumila/PCBang>
 
 <hr/><br>
 
