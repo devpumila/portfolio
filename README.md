@@ -7,7 +7,7 @@
 개발이란 다른 사람들과의 소통과 협력이라 생각합니다.
 좋은 개발자로 성장하기 위해 학습, 경험하고 있습니다.
 
-<hr/>
+<hr/><br>
 ###SKILLS
 <br><br>
 
@@ -16,3 +16,13 @@
 
 + Database
   + Oracle
+
++ Front-end
+  + HTML/CSS, JS 
++ Etc
+  + TomCat
++ Tools
+  + Eclipse, InteliJ, VSCode
+
+<hr/><br>
+
