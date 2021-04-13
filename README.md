@@ -12,7 +12,7 @@
 <br><br>
 
 + Back-end
-+ Java, Spring, Kotlin
+  + Java, Spring, Kotlin
 
 + Database
-+ Oracle
+  + Oracle
